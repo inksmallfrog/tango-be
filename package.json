@@ -1,0 +1,18 @@
+{
+  "name": "tango-be",
+  "version": "1.0.0",
+  "description": "tango backend",
+  "main": "index.js",
+  "repository": "https://github.com/inksmallfrog/tango-be.git",
+  "author": "inksmallfrog",
+  "license": "MIT",
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-latest-node": "^1.0.0",
+    "babel-preset-stage-3": "^6.24.1",
+    "koa": "^2.5.2",
+    "koa-body": "^4.0.4",
+    "koa-router": "^7.4.0"
+  }
+}
